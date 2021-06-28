@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.davidmoten:commons-csv:1.6.002" type="repository">
+    <properties maven-id="com.github.davidmoten:commons-csv:1.6.002" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/davidmoten/commons-csv/1.6.002/commons-csv-1.6.002.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

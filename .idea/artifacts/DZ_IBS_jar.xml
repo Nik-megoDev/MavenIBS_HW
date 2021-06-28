@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DZ_IBS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DZ_IBS_jar</output-path>
+    <root id="archive" name="DZ_IBS.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="DZ_IBS" />
+    </root>
+  </artifact>
+</component>
